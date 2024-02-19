@@ -1,0 +1,7 @@
+numpy~=1.16.4
+tensorflow~=1.14.0
+scipy~=1.4.1
+h5py~=2.10.0
+matplotlib~=3.3.4
+pillow~=8.4.0
+imageio~=2.15.0
