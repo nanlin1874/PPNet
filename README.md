@@ -8,4 +8,5 @@ Requirements<br>
 
 Testing<br>
 ----
-* 
+Our pretrained models are provided in folder `checkpoint`<br> 
+Use Put the red-channel transmission in folder `rcp`<br> 
