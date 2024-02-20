@@ -10,5 +10,5 @@ Testing<br>
 ----
 Our pretrained models are provided in folder `checkpoint`<br> 
 * First, You can use `RedChannelPrior` to produce red-channel transmission and put in folder `rcp`<br>
-* Second, use `ContrastPrior` to produce contrast-prior images and put in folder `rcp`<br>
+* Second, use `ContrastPrior` to produce contrast-prior images and put in folder `cp`<br>
 * run `main_test.py`<br>
