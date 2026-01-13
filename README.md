@@ -12,3 +12,10 @@ Our pretrained models are provided in folder `checkpoint`<br>
 * First, You can use `RedChannelPrior` to produce red-channel transmission and put in folder `rcp`<br>
 * Second, use `ContrastPrior` to produce contrast-prior images and put in folder `cp`<br>
 * run `main_test.py`<br>
+
+Test_datasets<br>
+----
+**UIEB dataset** [[UIEB]](https://li-chongyi.github.io/proj_benchmark.html)<br>
+paper:An Underwater Image Enhancement Benchmark Dataset and Beyond
+
+
